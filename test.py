@@ -1,0 +1,1 @@
+print("Ngu thi an cut")
